@@ -4,9 +4,9 @@
 |-----------------------------|------------|
 |Laurivasya Gadhing Syahafidh | 5025211136 |
 
-Drawing a 2-D square by combining two triangles [ Square Preview](https://laurivasyyy.github.io/GRAFKOM-Tugas-3-WebGL/2D-Square.html "square")
+> Drawing a 2-D square by combining two triangles [ Square Preview](https://laurivasyyy.github.io/GRAFKOM-Tugas-3-WebGL/2D-Square.html "square")
 
-Drawing a 3-D rotation cube [Cube Preview](https://laurivasyyy.github.io/GRAFKOM-Tugas-3-WebGL/3D-Cube.html "cube")
+> Drawing a 3-D rotation cube [Cube Preview](https://laurivasyyy.github.io/GRAFKOM-Tugas-3-WebGL/3D-Cube.html "cube")
 
 ## 2D-SQUARE
 | Triangle-1 | Triangle-2 | Square |
